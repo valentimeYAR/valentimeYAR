@@ -3,7 +3,7 @@
 </div>
 <br>
 <div id="badges" align='center'>
-  <a href="https://vk.com/valya_solo">
+  <a href="https://vk.com/valya_solo" target="_blank">
   <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
   <a href='https://t.me/sadmorph'>
